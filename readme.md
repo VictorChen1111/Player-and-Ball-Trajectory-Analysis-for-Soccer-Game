@@ -26,14 +26,7 @@ Understanding player and ball trajectories is crucial for soccer coaches, analys
 - **Bird's Eye View**: In addition to line connections, the visualization includes a bird's eye view perspective. This allows you to observe the players' movements and formations from an overhead angle, providing a comprehensive view of the game.
 
 ## Demo
-<!-- [![Video Title](https://img.youtube.com/vi/3QqCJYJVqGs/0.jpg)](https://www.youtube.com/watch?v=3QqCJYJVqGs) -->
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3QqCJYJVqGs" frameborder="0" allowfullscreen></iframe>
-
-<div style="text-align:center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/3QqCJYJVqGs" frameborder="0" allowfullscreen></iframe>
-</div>
+[![Video Title](https://img.youtube.com/vi/3QqCJYJVqGs/0.jpg)](https://www.youtube.com/watch?v=3QqCJYJVqGs)
 
 
 ## Framework
